@@ -1,0 +1,17 @@
+list1 =[1,2,3,4,5]
+list2=[6,7,8,9,10]
+print(list1+list2)
+
+mytuple=("talk","walk","run","read")
+print(mytuple[2])
+
+mydict={
+    "c":"easy",
+    "c++":"moderate",
+    "java" :"tough"
+    }
+del mydict["java"]
+print(mydict)
+
+
+
